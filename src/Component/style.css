@@ -1,0 +1,19 @@
+table,tr,th,td{
+    border: 1px solid black;
+    text-align: center;
+    padding: 10px;
+}
+table{
+    width: 40rem;
+    align-items: center;
+    margin: 20px 0px 0px 20rem;
+}
+th{
+    background: rgb(0, 0, 255);
+    color: azure;
+}
+tr,td{
+    color: black;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
